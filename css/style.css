@@ -1022,7 +1022,7 @@ font-size: 14px;
 }
 @media (max-width:576px){
   .hero-section span{
-font-size: inherit;
+    font-size: inherit;
   }
 }
 @media (max-width: 991px) {
@@ -1148,11 +1148,13 @@ font-size: inherit;
     .outline-btn {
         margin-left: 0;
         margin-top: 12px;
-        width: fit-content;
+        width: 220px;
+        text-align: center;
     }
 
     .primary-btn {
-        width: fit-content;
+        width: 220px;
+        text-align: center;
     }
 
 
