@@ -1031,6 +1031,7 @@ font-size: 16px;
 
     .navbar-nav {
         padding-top: 15px;
+        align-items: flex-start;
     }
 
 
@@ -1043,6 +1044,7 @@ font-size: 16px;
 
     .contact-link {
         margin-top: 5px;
+        align-self: flex-start;
     }
 
 
@@ -1136,6 +1138,12 @@ font-size: 16px;
         flex-direction: column;
 
         align-items: center;
+
+        gap: 15px;
+    }
+
+    .outline-btn {
+        margin-left: 0;
     }
 
 
@@ -1148,6 +1156,10 @@ font-size: 16px;
         width: 320px;
 
         height: 380px;
+
+        margin-left: auto;
+
+        margin-right: auto;
     }
 
 
@@ -1156,7 +1168,7 @@ font-size: 16px;
 
         height: 310px;
 
-        left: 35px;
+        left: 0;
     }
 
 
