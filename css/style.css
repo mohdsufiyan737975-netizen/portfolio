@@ -1148,11 +1148,13 @@ font-size: 14px;
     .outline-btn {
         margin-left: 0;
         margin-top: 12px;
-        width: fit-content;
+        width: 220px;
+        text-align: center;
     }
 
     .primary-btn {
-        width: fit-content;
+        width: 220px;
+        text-align: center;
     }
 
 
