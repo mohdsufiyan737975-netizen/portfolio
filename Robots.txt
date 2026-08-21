@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.mohdsufiyan.dev/sitemap.xml
+Sitemap: https://mohdsufiyan737975-netizen.github.io/portfolio/sitemap.xml
